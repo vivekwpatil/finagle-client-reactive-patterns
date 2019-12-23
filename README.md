@@ -1,1 +1,1 @@
-# finagle-client-reactive-patterns
+# finagle-client-reactive-patterns web documentation
